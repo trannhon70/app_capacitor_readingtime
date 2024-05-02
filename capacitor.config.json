@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "Reading Time",
+  "webDir": "dist",
+  "app": {
+    "icon": "assets/icon.png"
+  }
+}

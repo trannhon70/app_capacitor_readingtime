@@ -1,0 +1,13 @@
+{
+  "name": "redingtime",
+  "appId": "com.example.app",
+  "appName": "Reading Time",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  },
+  "type": "react-vite",
+  "integrations": {
+    "capacitor": {}
+  }
+}
